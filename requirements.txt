@@ -1,0 +1,8 @@
+# Frontend requirements
+streamlit==1.26.0
+requests==2.31.0
+python-dateutil==2.8.2
+
+# Backend requirements
+flask==2.3.3
+openai==0.28
